@@ -1,0 +1,23 @@
+[
+    {
+        "player": "Ankit",
+        "user_move": "Snake",
+        "computer_move": "Gun",
+        "result": "Loss",
+        "time": "2026-06-06 21:37:02"
+    },
+    {
+        "player": "Ankit",
+        "user_move": "Snake",
+        "computer_move": "Gun",
+        "result": "Loss",
+        "time": "2026-06-06 21:37:12"
+    },
+    {
+        "player": "Ankit",
+        "user_move": "Water",
+        "computer_move": "Water",
+        "result": "Draw",
+        "time": "2026-06-06 21:40:50"
+    }
+]
